@@ -7,5 +7,5 @@ Welcome to my portfolio repository! You can view my full portfolio using the lin
 
 ---
 ## 📫 Get in Touch
-* **LinkedIn:** [://linkedin.com](https://:/navaneeth-m-a60159436/linkedin.com)
+* **LinkedIn:** (https://:/navaneeth-m-a60159436/linkedin.com)
  * **Email:** [navaneeth7m@gmail.com]
